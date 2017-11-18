@@ -6,9 +6,9 @@ Sometimes all you have to go in is the live logs.
 raterep improves the accuracy when eyeing over live output to guestimate event occurance rate, all in
 an easy-to-install low-dependency bash script, portable across many unix-like disctributions.
 
-##Example usage
+## Example usage
 
-###MySQL client connection rate
+### MySQL client connection rate
 
 Count the client connection rate per second into a MySQL service
 
